@@ -1,0 +1,11 @@
+This is the working file of two data sets:
+a) Electricity Consumption
+b) Gas Consumptions
+
+**After making all possible models on this time series data we selected the one giving best results (Collated in excel sheets in previous folder).
+
+Model Made:
+1) ARIMA
+2) Decomposition
+3) Exponential Smoothing
+4) Holt-Winters Smoothing
