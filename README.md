@@ -13,6 +13,6 @@ The following file can be found:
   1. ```Working Files```: Contains a collation of all the models made according to project scope
   2. ```Electricity_Forecast_G14.xlsm```: This is a macros enabled excel workbook having the best for performing models fo rthe                   Electricity Consumption Forecast. The tool used is XLSTAT, details of which can be found [here] (https://www.xlstat.com/en/)
   3. ```Gas_Forecast_G14.xlsm```: This is again a macros enabled excel file, a collation of the best results using the following tool:
-     a) [XLSTAT] (https://www.xlstat.com/en/)
-     b) [Gretl] (http://gretl.sourceforge.net)
+     a) [XLSTAT](https://www.xlstat.com/en/)
+     b) [Gretl](http://gretl.sourceforge.net)
   4. ```DMO_Demand_Forecast_Group14.pptx```: The Business need of the project is articulated in the file, along with a summary of all the         results.
